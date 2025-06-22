@@ -1,1 +1,3 @@
-# Finvironment
+# Finvironment: AI Based Black-Litterman Portfolio Optimisation
+
+This project enhances traditional portfolio optimization by integrating AI with Modern Portfolio Theory (MPT) and the Black-Litterman Model. While MPT maximizes returns with minimal risk, Black-Litterman incorporates investor views for more stable allocations. We took it a step further by using BERT to analyze vast amounts of financial news in real time, enabling data-driven market insights to refine portfolio decisions. This hybrid approach combines financial expertise with AI-driven adaptability, ensuring optimal returns while managing risk effectively.
